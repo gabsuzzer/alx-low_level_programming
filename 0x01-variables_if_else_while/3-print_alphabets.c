@@ -1,5 +1,3 @@
-1 lines (20 sloc)  219 Bytes
-
 #include <stdio.h>
 /**
 * main - Entry point
