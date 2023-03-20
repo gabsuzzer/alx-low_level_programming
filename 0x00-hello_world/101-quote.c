@@ -1,4 +1,3 @@
-13 lines (12 sloc)  198 Bytes
 #include <stdio.h>
 #include <unistd.h>
 /**
