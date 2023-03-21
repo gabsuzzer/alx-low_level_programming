@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 /* main - print the input line using puts
  * Return: 0
