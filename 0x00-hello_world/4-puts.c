@@ -1,5 +1,8 @@
+
 #include <stdio.h>
-/* main - print the input line using puts
+/**
+ * main - print the input line using puts
+ *
  * Return: 0
  */
 int main(void)
