@@ -1,6 +1,6 @@
 #include "main.h"
 
-int print_alphabet_x10 (void)
+int print_alphabet_x10(void)
 {
 	   int i;
 	   int count = 0;
@@ -13,6 +13,5 @@ int print_alphabet_x10 (void)
 			}
 				_putchar('\n');
 		}
-	
-	return(0);
+	return (0);
 }
