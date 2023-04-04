@@ -1,3 +1,4 @@
+#include "main.h"
 char *_memset(char *s, char b, unsigned int n)
 {
     char *p = s;
@@ -5,5 +6,5 @@ char *_memset(char *s, char b, unsigned int n)
     {
         *p++ = b;
     }
-    return s;
+    return (s);
 }
