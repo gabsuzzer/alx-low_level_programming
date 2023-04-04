@@ -1,13 +1,11 @@
 #include "main.h"
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
-    char *pdest = dest;
-    char *psrc = src;
+	int i, j;
 
-    for (unsigned int i = 0; i < n; i++)
-    {
-        *(pdest + i) = *(psrc + i);
-    }
+	j = n;
+	for (i = 0; i < j; i++)
+		dest[i] = src[i];
 
-    return dest;
+	return (dest);
 }
